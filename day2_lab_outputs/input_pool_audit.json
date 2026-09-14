@@ -1,0 +1,11 @@
+{
+  "archive_sha256": "f7d99888f21440fb0374d84962b93213bd8c14e665d093cc8d37f4c61b71ed33",
+  "image_ids": [
+    "drive_008",
+    "drive_022",
+    "drive_033",
+    "drive_038"
+  ],
+  "image_count": 4,
+  "provided_input_is_unchanged": true
+}

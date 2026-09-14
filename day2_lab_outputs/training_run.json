@@ -1,0 +1,20 @@
+{
+  "purpose": "ch\u1ec9 d\u00f9ng \u0111\u1ec3 ph\u1ea3n h\u1ed3i v\u00e0 t\u00ecm l\u1ed7i d\u1eef li\u1ec7u",
+  "not_production_benchmark": true,
+  "ultralytics_version": "8.4.145",
+  "model_file": "yolo11n.pt",
+  "model_sha256": "0ebbc80d4a7680d14987a577cd21342b65ecfd94632bd9a8da63ae6417644ee1",
+  "export_sha256": "479a0f7862c17697c283f6e2c8fd49092d97aa4291ee52719cef47864a27fb6b",
+  "epochs": 8,
+  "seed": 42,
+  "device": "0",
+  "train_image_ids": [
+    "drive_022",
+    "drive_033",
+    "drive_038"
+  ],
+  "val_image_ids": [
+    "drive_008"
+  ],
+  "elapsed_seconds": 41.23
+}
